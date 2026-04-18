@@ -38,3 +38,13 @@ Full Website
 <img width="1912" height="802" alt="README" src="https://github.com/user-attachments/assets/84b38c39-f99e-4d81-b8ad-f153a4de7868" />
 
 
+ Getting Started
+
+ 
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+Live Link: https://superb-mermaid-b13-a7.netlify.app/ 
